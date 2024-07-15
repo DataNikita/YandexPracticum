@@ -134,9 +134,6 @@
 * `username` — имя автора обзора;
 * `text` — текст обзора.
 
-### Результаты работы
-Результаты оформленны в виде отчета в тетрадке Jupyter Notebook. [Ссылка на тетрадку]()
-
 ## Используемые библиотеки и инструменты
 *pandas*, *numpy* *seaborn*, *matplotlib*, *math*, *scipy*, *statistics*, *sys*, *phik*,  \
 *SQL*, *Работа с SQL с помощью python в Jupyter Notebook*, *MS Power Point*
